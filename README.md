@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning web design, JavaScript, batch and C++.
 - 📫 How to reach me: mailto:jaka.cernetic@students.vegova.si
 - 🖼 My website: https://jakecer.tk
-<br>
-<br>
+- 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <br>
@@ -16,3 +16,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="github" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jakecernet&theme=dark)](https://git.io/streak-stats)
