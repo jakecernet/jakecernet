@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...school.
-- 🌱 I’m currently learning web design, JavaScript, batch and C++.
+- 🌱 I’m currently learning advanced web development, JavaScript and Arduino.
 - 🖼 My website: https://jakecer.tk
 <br>
 <a href="https://discordapp.com/users/789479509127987210" style="color: #fff; text-decoration: none;"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
