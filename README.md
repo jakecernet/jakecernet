@@ -16,7 +16,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" width="40" height="40">
-    <img src="https://seeklogo.com/images/N/node-js-logo-F4F55CD2D0-seeklogo.com.png" title="Git" height="40">
+    <img src="https://seeklogo.com/images/N/node-js-logo-F4F55CD2D0-seeklogo.com.png" title="Node JS" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
