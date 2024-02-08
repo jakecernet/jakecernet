@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning advanced web development, JavaScript and Arduino.
 - 🖼 My website: https://cernetic.cc
 <br>
-<a href="https://discordapp.com/users/789479509127987210" style="color: #fff; text-decoration: none;"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discordapp.com/users/789479509127987210" style="color: #fff; text-decoration: none;" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.youtube.com/@JakaCernetic" style="color: #fff; text-decoration: none;" target="_blank"><img src="https://img.shields.io/badge/YouTube-red.svg?style=for-the-badge&logo=Youtube&logoColor=white">
 
 ---
 
@@ -24,5 +25,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jakecernet&theme=dark)](https://git.io/streak-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakecernet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jakecernet&theme=dark)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakecernet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
