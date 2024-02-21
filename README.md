@@ -1,7 +1,7 @@
 ### Morning chaps 🍷
 
 - 🔭 I’m currently working on some JavaScript projects.
-- 🌱 I’m currently teaching (and learning) advanced web development, JavaScript and Arduino.
+- 🌱 I’m currently teaching (and learning) advanced web development and Arduino.
 - 🖼 My website: https://cernetic.cc
 <br>
 <a href="https://discordapp.com/users/789479509127987210" style="color: #fff; text-decoration: none;" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
