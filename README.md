@@ -1,5 +1,5 @@
 ### Morning chaps 🍷
-- 🔭 I’m currently working on some JavaScript projects.
+- 🔭 I’m currently working on some JavaScript and ESP32 projects.
 - 🌱 I’m currently teaching (and learning) advanced web development and Arduino.
 - 🖼 My website: https://cernetic.cc
 <div align="center">
