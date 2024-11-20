@@ -3,7 +3,6 @@
 - 🌱 I’m currently teaching (and learning) advanced web development and Arduino.
 - 🖼 My website: https://cernetic.cc
 <div align="center">
-<a href="https://discordapp.com/users/789479509127987210" style="color: #fff; text-decoration: none;" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/@JakaCernetic" style="color: #fff; text-decoration: none;" target="_blank"><img src="https://img.shields.io/badge/YouTube-red.svg?style=for-the-badge&logo=Youtube&logoColor=white">
 </div>
   
